@@ -33,5 +33,4 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-# [Kaynak](http://ozgurlisanslar.org.tr/mit/)
-# [Kaynak kaydı (Web archive)](https://web.archive.org/web/20170413071115/http://ozgurlisanslar.org.tr/mit/)
+# [Kaynak](http://ozgurlisanslar.org.tr/mit/) - [Kaynak kaydı (Web archive)](https://web.archive.org/web/20170413071115/http://ozgurlisanslar.org.tr/mit/)
